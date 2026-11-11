@@ -1,0 +1,11 @@
+id,name,category,price,stock,description
+1001,NVIDIA RTX 4080,GPU,899.99,8,High performance graphics card
+1002,AMD Radeon RX 7900 XTX,GPU,749.99,6,AMD graphics card for gaming
+1003,AMD Ryzen 7 7800X3D,CPU,299.99,12,8 core gaming processor
+1004,Intel Core i7 14700K,CPU,329.99,10,Intel desktop processor
+1005,Corsair Vengeance 32GB DDR5,RAM,109.99,15,32GB DDR5 memory kit
+1006,G.Skill Trident Z5 32GB DDR5,RAM,119.99,10,High speed DDR5 memory
+1007,Samsung 990 Pro 2TB,Storage,159.99,14,2TB NVMe solid state drive
+1008,WD Black SN850X 2TB,Storage,149.99,12,2TB gaming NVMe drive
+1009,Gigabyte B650 AORUS Elite AX,Motherboard,189.99,9,AMD AM5 motherboard
+1010,MSI MAG B760 Tomahawk,Motherboard,169.99,7,Intel desktop motherboard
